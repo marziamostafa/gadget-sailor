@@ -2,6 +2,7 @@
 
 ## website links:
 gadget-sailor link: https://gadget-sailor-frontend.vercel.app/
+
 gadget-sailor server link: https://gadget-sailor-backend.onrender.com/api/v1
 
 
